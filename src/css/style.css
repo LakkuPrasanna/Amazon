@@ -1,0 +1,436 @@
+.dp{
+    width:100%;
+    height:100vh;
+    
+}
+.pic{
+    background-color: black;
+    height:5px;
+    color:white;
+    display:flex;
+    
+}
+.pic{
+    height:100px;
+    width:150px;
+}
+.all{
+    border:none;
+   
+    height:45px;
+}
+.search{
+    display:flex;
+    height:45px;
+    
+    
+}
+.si{
+    background-color: yellow;
+    border:none;
+}
+.flag{
+    height:30px;
+    width:30px;
+}
+.s1{
+    background-color: black;
+    color:white;
+}
+.searchbutton{
+    background-color: #febd69;
+}
+selectc{
+    font-size: 0px;
+    color:black;
+    background-color: white;
+}
+.s2{
+    background-color:blue;
+}
+.red{
+    width:100%;
+    border:1px solid black;
+    img{
+        width:400px;
+        height:600px;
+    }
+}
+.pink{
+    h1{
+        color:#da4e6f;
+    }
+}
+.offer1{
+    img{
+        width:20px;
+        height:20px;
+    }
+}
+.square{
+height: 100px;
+width: 150px;
+background-color:transparent;
+border:1px solid black;
+box-shadow:2px 2px 3px black;
+margin:4px;
+P{
+    padding:0px;
+    margin:0px;
+}
+a{
+    text-decoration: none;
+    color:#087589;
+}
+
+}
+.pink1{
+    height:780px;
+    width:300px;
+    background-color: transparent;
+    border:1px solid black;
+    margin-top: 50px;
+    padding: 10px;
+   
+    
+}
+.loc{
+    img{
+    height:25px;
+    width:20px;
+    }
+}
+b{
+    color:#087589;
+}
+.btn1{
+    margin-left:50px;
+    width:200px;
+}
+.btn2{
+    margin-left:50px;
+    width:200px;
+    margin-top:5px;
+    color:#f77800;
+}
+.key{
+    height:0px;
+    width:0px;
+}
+.add{
+    margin-left:50px;
+}
+.child{
+    border:1px solid black;
+    padding:5px;
+}
+.fridge{
+    height:250px;
+    width:100x;
+    margin-left:120px;
+    margin-right: 100px;
+   
+}
+.star{
+    img{
+    height:0px;
+    width:0px;
+    }
+}
+.container{
+    display:flex;
+}
+.parent{
+    padding-left:150px;
+}
+
+.a{
+    P{
+        color:#087589;
+        font-size: 15px;
+    }
+    img{
+        margin:10px;
+        height:100px;
+        width:100px;
+    }
+}
+.sfan{
+    height: 50px;
+    width: 150px;
+    background-color:transparent;
+    border:1px solid black;
+  
+    margin:4px;
+
+    img{
+        height:40px;
+        width:40px;
+    }
+}
+.productlistimage{
+    height:200px;
+    width:200px;
+    align-items: center;
+}
+.pdetails{
+    
+    margin-top: 100px;
+    
+}
+.searcha{
+    background-color: #febd69;
+}
+.selectc{
+    border:none;
+}
+.delivering{
+    p{
+        margin-bottom:0px;
+        padding-left: 20px;
+    }
+   
+}
+.loc{
+    color: white;
+    height: 18px;
+    width:18px;
+}
+.pic{
+    background-color: transparent;
+}
+.language{
+    background-color:transparent;
+    color:white;
+    border:none;
+    padding-left: 5px;
+}
+.signin{
+margin:0px;
+color:white;
+}
+.start{
+    color:red;
+}
+.vl {
+    border-left: 1px solid black;
+    height: 500px;
+  }
+  .pa{
+    p{
+        margin:1px;
+    }
+  }
+  .pp{
+    margin:100px;
+    margin-bottom: 0px;
+  }
+  .ps{
+    padding-left: 100px;
+  }
+  .cart{
+    padding-top: 10px;
+  }
+  .searchb{
+    width:300px;
+    width:100%;
+  }
+  .s3{
+    background-color: #232f3e;
+    color:white;
+  }
+  .s4{
+    P{
+    margin-bottom:0px;
+    }
+  }
+  .abc{
+    margin-top:-200px;
+
+  }
+  .carousel-indicators{
+    z-index:-1;
+  }
+  .container-fluid{
+    width: 100% !important;
+}
+.na{
+    height: 55px;
+    background-color: black;
+}
+.logo{
+    margin-bottom: 0px;
+    height: 40px;
+    width: 20px;
+}
+.print{ 
+    width: fit-content;
+    color: white;
+    font-size: small;
+}
+.prin{
+    width: fit-content;
+    color: white;
+}
+.loca{
+    height: 30px;
+}
+select{
+    background-color: transparent;
+    color: white;
+}
+.s{
+    background-color: white;
+    color: black;
+}
+.d-flex input{
+    width: 300px;
+}
+.second{
+    height: 32px;
+    font-size: medium;
+}
+.menu{
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+.con{
+    margin-top: -350px;
+    position: relative;
+    
+}
+.row>* {
+    min-width: 23% !important;
+}
+.cont{
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: larger;
+    height: 350px;
+    margin: 10px 5px 10px 5px;
+    padding-left: 3px;
+    color:white;
+}
+.co{
+    height: 75px;
+    width: 90px;
+}
+.i{
+    height: 75px;
+    width: auto;
+}
+.down{
+    color: black;
+    font-size: 12px;
+}
+.c{
+    margin-top: 10px;
+}
+.shop{
+    
+    font-size: 12px;
+    padding-left: 17px;
+}
+.back{
+    background-color: #e3e6e6;
+}
+.text{
+    color: black;
+    font-size: large;
+}
+.tex{
+    color: black;
+    font-size: medium;
+}
+.drop{
+    background-color: transparent;
+    margin-top: 0px;
+
+}
+.box{
+    color: black;
+    font-size: larger;
+    margin: 10px;
+}
+.sho{
+    
+    font-size: small;
+    margin-top: 20px;
+}
+.item{
+    display: flex;
+    overflow-x: scroll;
+    height:200px;
+    width: auto;
+    margin: 10px;
+}
+.carousel-control-prev,.carousel-control-next{
+    height: 300px !important;
+}
+.footer{
+    height:500px;
+    background-color: black;
+}
+.box1{
+    justify-content:space-evenly ;
+    padding:15px;
+    
+    width:20%;
+    background-color: white;
+    border-radius: 10%;
+    border:1px solid grey;
+    a{
+        color:black;
+    }
+}
+.back-to-top{
+    justify-content:center;
+    align-items:center;
+    display: flex;
+    width:100%;
+    height:50px;
+    background-color: black;
+}
+.footer-top{
+    color:white;
+    background-color: #232f3e;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    .box1{
+        background-color:transparent;
+        border:none;
+        h3,p{
+            color:white;
+            margin-bottom:10px;
+        }
+        justify-content: center;
+        align-items:center;
+    }
+
+}
+.footer-bottom{
+    margin-top:50px;
+    display:flex;
+   button{
+    background-color: transparent;
+    margin-left:30px;
+    width:100px;
+    height:40px;
+    
+   }
+    justify-content:center;
+    background-color: #232f3e;
+}
+.footer23{
+    background-color:#232f3e ;
+}
+.footer-bottom img{
+    height:60px;
+
+    
+}
+.col{
+    margin-right:0;
+}
